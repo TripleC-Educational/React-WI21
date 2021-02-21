@@ -4,6 +4,13 @@
 **在项目开始之前，相信你已经非常熟悉HTML和CSS了（如果还不熟悉的话搞紧去自己复习一下）**  
 **在本次项目中，我们会学到 JavaScript 的基础，并掌握 React 的核心知识**  
 **最后，我们会用学到的知识做一个小项目，或加入Triple C的前端项目组**  
+<br>
+**我们每周可能会有一些小作业，但是目前我还没写好orz**  
+**写好了之后会更新在这个文档里** 
+
+## 目录：
+- [时间安排](#项目时间安排)
+- [作业](#作业)
 
 ## 项目时间安排：
 ### week 1 - JavaScript：
@@ -32,7 +39,8 @@
     ```javascript
     this.onClick = this.onClick.bind(this);
     ```
-    才不会报 ```Cannot perform .setState of undefined``` 之类的错误  
+    才不会报 ```Cannot perform .setState() of undefined``` 之类的错误  
+    想清楚上面这句话到底是什么意思，到底 interpreter 觉得什么东西是```undefined```的  
     想清楚```bind()```是干什么的，会 return 什么东西；每个地方的```this```是干什么的
 - 理解为什么用 ```arrow function``` 来替代 ```regular function```，即使不 ```bind()``` 也不会报错
 - 考虑到本周的内容比较难，而且涉及到JavaScript中的难点，学习时间大约两小时起步
@@ -41,4 +49,7 @@
 ### week 5 - 没想好取啥名儿:
 - **学习YouTube教程的 20 - 25 节**  
 - 看完YouTube之后，看一下我之前录的 [Axios, Material UI, 和 React Router 的教程](https://drive.google.com/file/d/1qfohK3fd6cu3AfuOaqx1CtFZw2rXGfYR/view?usp=sharing)
-- 总学习时长大约两小时起步，但是内容都不会很难
+- 总学习时长大约两小时起步，但是内容都不会很难  
+
+## 作业：
+设计中
