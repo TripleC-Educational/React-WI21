@@ -15,6 +15,7 @@
 ## 项目时间安排：
 ### week 1 - JavaScript：
 **学习 [Educative.io - JavaScript Fundamentals Before Learning React](https://www.educative.io/courses/javascript-fundamentals-before-learning-react)**
+- Due 2/28/2021
 - 这是本项目里面最后一次使用 Educative.io 这个平台
 - 只用学到第四章及以前（Classes)，后面内容选学。不看也没事，我们后面会更详细地学到这些内容
 - 总学习时间大概 <= 2 hours
