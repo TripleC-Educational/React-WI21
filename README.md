@@ -21,7 +21,7 @@
 - 只用学到第四章及以前（Classes)，后面内容选学。不看也没事，我们后面会更详细地学到这些内容
 - 总学习时间大概 <= 2 hours
 - **作业:**
-    - hw1
+    - hw1: 完成里面的前三个taskN.js，task4.js选做
     - due 3/7/2021 
 
 **从第二周开始，我们会使用这个 [YouTube 教程](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&ab_channel=Codevolution)**
