@@ -65,7 +65,7 @@
 ### Set up:
 1. 进入[这个链接](https://classroom.github.com/a/efxXn9i9) 来接受Github Assignment, 接受之后，Github会自动创建一个空的Github Repository, 地址为 ```https://github.com/TripleC-Educational/react-wi21-submissions-xxxx``` 其中 ```xxxx``` 是你的Github用户名。这个Repository是你提交作业的地方。
 2. 在你的电脑上新建一个文件夹，名称随意
-3. 进入那个文件夹，然后 执行 ```git init```
+3. 进入你新建的文件夹，然后 执行 ```git init```
 4. 
     在你的那个文件夹里
     ```
