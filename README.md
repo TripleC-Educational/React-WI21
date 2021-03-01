@@ -11,6 +11,7 @@
 ## 目录：
 - [时间安排](#项目时间安排)
 - [作业](#作业)
+- [Homwork instructions](#Homwork_instructions)
 
 ## 项目时间安排：
 ### week 1 - JavaScript：
@@ -19,6 +20,9 @@
 - 这是本项目里面最后一次使用 Educative.io 这个平台
 - 只用学到第四章及以前（Classes)，后面内容选学。不看也没事，我们后面会更详细地学到这些内容
 - 总学习时间大概 <= 2 hours
+- **作业:**
+    - hw1
+    - due 3/7/2021 
 
 **从第二周开始，我们会使用这个 [YouTube 教程](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&ab_channel=Codevolution)**
 ### week 2 - Introduction to React:
@@ -53,4 +57,47 @@
 - 总学习时长大约两小时起步，但是内容都不会很难  
 
 ## 作业：
-设计中
+ - 所有作业都在 [这个Github Repo](https://github.com/TripleC-Educational/React-WI21-hws)
+ - 如何获取及提交作业，请见下方的instructions
+ - hw1 已发布: 3/1/2021
+
+## Homwork_instructions: 
+### Set up:
+1. 进入[这个链接](https://classroom.github.com/a/efxXn9i9) 来接受Github Assignment, 接受之后，Github会自动创建一个空的Github Repository, 地址为 ```https://github.com/TripleC-Educational/react-wi21-submissions-xxxx``` 其中 ```xxxx``` 是你的Github用户名。这个Repository是你提交作业的地方。
+2. 在你的电脑上新建一个文件夹，名称随意
+3. 进入那个文件夹，然后 执行 ```git init```
+4. 
+    在你的那个文件夹里
+    ```
+    git remote add upstream https://github.com/TripleC-Educational/React-WI21-hws
+    ```
+    你以后会从这个repository获取最新的homework
+5. 
+    ```
+    git remote add origin https://github.com/TripleC-Educational/react-wi21-submissions-xxxx
+    ```
+    其中 ```xxxx``` 是你的Github用户名
+
+### 获取作业：
+- 在你本地的文件夹里
+    ```
+    git pull upstream master
+    ```
+    执行这个pull request之后，你会获取到最新的作业  
+    比如第一周的作业应该就会在 ```hw1``` 这个文件夹里
+- 以后每周有新的作业发布时，在本地执行这个命令就会获取到最新的作业
+
+### 提交作业：
+1. 
+    ```
+    git add .
+    ```
+2. 
+    ```
+    git commit -m 'xxxx'
+    ```
+3. 
+    ```
+    git push origin master
+    ```
+    这会把你的作业push到 ```https://github.com/TripleC-Educational/react-wi21-submissions-xxxx``` 这个 repository
