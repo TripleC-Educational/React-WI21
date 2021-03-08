@@ -27,11 +27,13 @@
 **从第二周开始，我们会使用这个 [YouTube 教程](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&ab_channel=Codevolution)**
 ### week 2 - Introduction to React:
 - **学习YouTube教程的 1 - 6 节**  
+- Due 3/7/2021
 - 前面的内容很简单，建议他讲些有的没的的时候就开 1.5+ 倍速看
 - 总学习时长不超过一个小时
 
 ### week 3 - Props and State:
 - **学习YouTube教程的 7 - 13 节**  
+- Due 3/14/2021
 - 总学习时长大概一小时多一点
 - 着重理解如何向组件传递参数，以及组件该如何使用（或保存）这些参数
 
