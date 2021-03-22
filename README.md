@@ -36,6 +36,9 @@
 - Due 3/14/2021
 - 总学习时长大概一小时多一点
 - 着重理解如何向组件传递参数，以及组件该如何使用（或保存）这些参数
+- **作业：**
+    - [hw2](https://github.com/TripleC-Educational/React-WI21-hws/tree/master/hw2)
+    - due 3/30/2021
 
 ### week 4 - Event handling:
 - **学习YouTube教程的 14 - 19 节**  
