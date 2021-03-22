@@ -42,6 +42,7 @@
 
 ### week 4 - Event handling:
 - **学习YouTube教程的 14 - 19 节**  
+- Due 3/30/2021
 - 着重理解 JavaScript 的 ```this```
 - 可以看看这个文章：[链接](https://www.javascripttutorial.net/javascript-this/)
 - 理解 ```.bind(), .apply(), .call()``` 这三个function到底是干什么的
