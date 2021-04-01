@@ -57,9 +57,10 @@
 - 考虑到本周的内容比较难，而且涉及到JavaScript中的难点，学习时间大约两小时起步
 
 
-### week 5 - 没想好取啥名儿:
+### week 5 - React Ending, Axios, UI Frameworks, Router:
 - **学习YouTube教程的 20 - 25 节**  
 - 看完YouTube之后，看一下我之前录的 [Axios, Material UI, 和 React Router 的教程](https://drive.google.com/file/d/1qfohK3fd6cu3AfuOaqx1CtFZw2rXGfYR/view?usp=sharing)
+- Due 4/9/2021
 - 总学习时长大约两小时起步，但是内容都不会很难  
 
 ## 作业：
