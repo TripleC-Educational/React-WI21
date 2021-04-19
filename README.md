@@ -63,6 +63,10 @@
 - Due 4/9/2021
 - 总学习时长大约两小时起步，但是内容都不会很难  
 
+## Final Project
+- [链接](https://github.com/TripleC-Educational/React-WI21-hws/tree/master/final-project)  
+- Due 5/7/2021
+
 ## 作业：
  - 所有作业都在 [这个Github Repo](https://github.com/TripleC-Educational/React-WI21-hws)
  - 如何获取及提交作业，请见下方的instructions
